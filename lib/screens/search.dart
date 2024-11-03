@@ -5,7 +5,6 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:dio/dio.dart';
 import '../utils/gif.dart';
-import 'dart:io';
 
 class SearchScreen extends StatefulWidget {
   @override
